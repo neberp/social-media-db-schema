@@ -1,3 +1,3 @@
-## Backend db logic of a social media
+## Backend db logic
  
  ![db schema](database-schema.png)
